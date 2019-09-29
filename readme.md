@@ -13,6 +13,12 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Nikolaj Kniha
+<<<<<<< HEAD
 2. 
 3.
 4. Andrea Smiešna
+=======
+2. Jana Oravcova
+3.
+4.Linda Jurkasová
+>>>>>>> ab798dbd0643d7221540c35e3a10fa14faa03d18
