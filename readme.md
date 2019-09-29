@@ -15,4 +15,4 @@ Nas tim tvoria clenovia:
 1. Nikolaj Kniha
 2. Jana Oravcova
 3.
-4.
+4.Linda Jurkasová
